@@ -1,0 +1,9 @@
+{
+  "name": "Loop · Campus Token Economy",
+  "short_name": "Loop",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#2435d6",
+  "icons": [{ "src": "assets/icon.svg", "type": "image/svg+xml", "sizes": "any" }]
+}
